@@ -1,0 +1,6 @@
+.stock__button {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  column-gap: 20px;
+}

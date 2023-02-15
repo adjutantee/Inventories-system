@@ -1,0 +1,11 @@
+.items {
+  padding-top: 20px;
+}
+.items__block {
+  display: flex;
+  flex-direction: column;
+}
+
+.tbitem {
+  text-align: center;
+}

@@ -1,0 +1,16 @@
+.btn__delete {
+  background-color: brown;
+  color: #fff;
+}
+.btn__delete:hover {
+  background-color: rgb(110, 30, 30);
+}
+
+.btn__open {
+  margin-left: 5px;
+  color: #fff;
+  background: linear-gradient(to left, #794fa9, #8e409e);
+}
+.btn__open:hover {
+  background: linear-gradient(to left, #472e64, #5d2968);
+}

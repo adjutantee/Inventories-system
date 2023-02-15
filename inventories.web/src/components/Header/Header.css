@@ -1,0 +1,30 @@
+.header__block {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav__list {
+  display: flex;
+  column-gap: 20px;
+}
+
+.nav__item a {
+  color: #fff;
+  background: linear-gradient(to left, #794fa9, #8e409e);
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: 2px 3px 7px black;
+  transition: 0.3s;
+}
+
+.nav__item a:hover {
+  box-shadow: 0px 1px 2px black;
+}
+
+.header__hr {
+  height: 10px;
+  background: linear-gradient(to left, #a94fa2, #e91fa6);
+}
