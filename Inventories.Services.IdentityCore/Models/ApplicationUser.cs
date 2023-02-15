@@ -1,6 +1,8 @@
-﻿namespace Inventories.Services.IdentityCore.Models
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace Inventories.Services.IdentityCore.Models
 {
-    public class ApplicationUser
+    public class ApplicationUser : IdentityUser
     {
     }
 }
