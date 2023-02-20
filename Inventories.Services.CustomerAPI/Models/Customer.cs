@@ -17,6 +17,6 @@ namespace Inventories.Services.CustomerAPI.Models
         [Required]
         public string CustomerState { get; set; }
         [Required]
-        public int CustomerPhone { get; set; }
+        public string CustomerPhone { get; set; }
     }
 }

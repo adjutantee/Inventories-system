@@ -8,6 +8,6 @@
         public string CustomerAddress { get; set; }
         public string CustomerCity { get; set; }
         public string CustomerState { get; set; }
-        public int CustomerPhone { get; set; }
+        public string CustomerPhone { get; set; }
     }
 }
